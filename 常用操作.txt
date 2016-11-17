@@ -1,0 +1,4 @@
+# Windows 7 啟用系統管理員 Administrator 帳戶 #
+
+net user administrator /active:yes
+net user administrator /active:no
